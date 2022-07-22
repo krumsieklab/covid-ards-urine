@@ -29,14 +29,14 @@ Execute scripts in order. The code will first compute all result tables and then
 
 # Data
 
-The input data used in this manuscript can be obtained from: https://doi.org/XX/XX.figshare.XX, and need to be placed in a folder called input/.
+The input data used in this manuscript can be obtained from: https://doi.org/10.6084/m9.figshare.20260998.v1, and need to be placed in a folder called input/.
 
 
 
 # Reference
 
     @article{batra_2022,
-      author = {Batra Richa, Uni Rie, Akchurin Oleh M., Alvarez-Mulett Sergio, Hoffman Katherine L., Simmons Will, Harrington John, Chetnik Kelsey, Buyukozkan Mustafa, Benedetti Elisa, Suhre Karsten, Schmidt Frank, Schenck Edward, Cho Soo Jung, Choi Augustine M.K., Choi Mary E., Krumsiek Jan},
+      author = {Batra Richa, Uni Rie, Akchurin Oleh M., Alvarez-Mulett Sergio,Gómez-Escobar Luis G., Patino Edwin, Hoffman Katherine L., Simmons Will, Harrington John, Chetnik Kelsey, Buyukozkan Mustafa, Benedetti Elisa, Suhre Karsten, Schmidt Frank, Schenck Edward, Cho Soo Jung, Choi Augustine M.K., Choi Mary E., Krumsiek Jan},
       doi = {},
       title = {{Urine-based multi-omic comparative analysis of COVID-19 and bacterial sepsis-induced ARDS}},
       url = {},
