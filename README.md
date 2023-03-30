@@ -2,7 +2,7 @@
 
 # Urine-based multi-omic comparative analysis of COVID-19 and bacterial sepsis-induced ARDS
 
-This repository contains scripts for the analysis and figure generation of the paper<br/> **Batra\*, Uni\* et. al.** Urine-based multi-omic comparative analysis of COVID-19 and bacterial sepsis-induced ARDS (2022), *Medrxiv*.
+This repository contains scripts for the analysis and figure generation of the paper<br/> **Batra\*, Uni\* et. al.** Urine-based multi-omic comparative analysis of COVID-19 and bacterial sepsis-induced ARDS (2022), *Molecular Medicine*. [link](https://molmed.biomedcentral.com/articles/10.1186/s10020-023-00609-6)
 
 # Content
 
@@ -35,10 +35,10 @@ The input data used in this manuscript can be obtained from: https://doi.org/10.
 
 # Reference
 
-    @article{batra_2022,
-      author = {Batra Richa, Uni Rie, Akchurin Oleh M., Alvarez-Mulett Sergio,Gómez-Escobar Luis G., Patino Edwin, Hoffman Katherine L., Simmons Will, Harrington John, Chetnik Kelsey, Buyukozkan Mustafa, Benedetti Elisa, Suhre Karsten, Schmidt Frank, Schenck Edward, Cho Soo Jung, Choi Augustine M.K., Choi Mary E., Krumsiek Jan},
-      doi = {},
+    @article{batra_2023,
+      author = {Batra Richa, Uni Rie, Akchurin Oleh M., Alvarez-Mulett Sergio,Gómez-Escobar Luis G., Patino Edwin, Hoffman Katherine L., Simmons Will, Whalen William, Harrington John, Chetnik Kelsey, Buyukozkan Mustafa, Benedetti Elisa, Suhre Karsten, Schmidt Frank, Schenck Edward, Cho Soo Jung, Choi Augustine M.K., Choi Mary E., Krumsiek Jan},
+      doi = {https://doi.org/10.1186/s10020-023-00609-6},
       title = {{Urine-based multi-omic comparative analysis of COVID-19 and bacterial sepsis-induced ARDS}},
-      url = {},
-      year = {2022}
+      url = {https://molmed.biomedcentral.com/articles/10.1186/s10020-023-00609-6},
+      year = {2023}
     }
